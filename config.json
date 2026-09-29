@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "consuming-rest-apis-python",
+      "title": "Consuming REST APIs with Python",
+      "description": "Making HTTP requests, parsing JSON, filtering results, and handling API errors with Python's standard library.",
+      "path": "assignments/consuming-rest-apis-python",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
